@@ -1,5 +1,5 @@
 # Reto_5_Construimos--por--colombia
-repositorio ejercicios resueltos Estructuras de datos
+Repositorio: ejercicios resueltos Estructuras de datos
 
 *****************************************************
 
